@@ -1,0 +1,14 @@
+{
+  "kind": "collectionType",
+  "collectionName": "les",
+  "info": {
+    "singularName": "le",
+    "pluralName": "les",
+    "displayName": "le"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {}
+}

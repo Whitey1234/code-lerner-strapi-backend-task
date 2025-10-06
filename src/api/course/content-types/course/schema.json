@@ -35,6 +35,12 @@
     },
     "slug": {
       "type": "uid"
+    },
+    "modules": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::module.module",
+      "mappedBy": "course"
     }
   }
 }
